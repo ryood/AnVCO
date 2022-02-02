@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 4 5
 Title "AnVCO_Saw2Tri"
-Date "2021-12-28"
+Date "2022-01-26"
 Rev "Ver. 1.0"
 Comp "PNPN Manufactory"
 Comment1 ""
@@ -257,12 +257,12 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6500 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_POT_TRIM RV7
+L Device:R_POT_TRIM RV8
 U 1 1 603FFFCF
 P 5400 3150
-F 0 "RV7" H 5330 3104 50  0000 R CNN
+F 0 "RV8" H 5330 3104 50  0000 R CNN
 F 1 "5k" H 5330 3195 50  0000 R CNN
-F 2 "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical" H 5400 3150 50  0001 C CNN
+F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 5400 3150 50  0001 C CNN
 F 3 "~" H 5400 3150 50  0001 C CNN
 	1    5400 3150
 	-1   0    0    -1  
